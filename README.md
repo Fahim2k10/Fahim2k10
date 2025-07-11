@@ -1,11 +1,4 @@
 
-## Connect with me:
-<p align="left">
-  <a href="https://instagram.com/chowdhuryfahimali" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
-  </a>
-</p>
-
 ## 🧑‍💻 Languages:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
