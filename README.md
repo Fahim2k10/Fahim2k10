@@ -1,4 +1,11 @@
 
+## Connect with me:
+<p align="left">
+  <a href="https://instagram.com/chowdhuryfahimali" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
+
 ## 🧑‍💻 Languages:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
@@ -15,6 +22,7 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=express" alt="Express.js" /></a>
+   <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="React Native" title="React Native" /></a>
 </p>
 
 ## ☁️ Platforms & Services:
