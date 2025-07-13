@@ -20,9 +20,6 @@
 
 ## ☁️ Platforms & Services:
 <p align="left">
-  <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  </a>
   <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   </a>
