@@ -34,16 +34,17 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   </a>
-</p>
-
-## 🔍 Exploring:
-<p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   </a>
+</p>
+
+## 🔍 Exploring:
+<p align="left">
+  
   <a href="https://socket.io/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
   </a>
