@@ -31,6 +31,7 @@
   <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   </a>
+    <br>
   <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   </a>
