@@ -18,6 +18,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
+  <a href="https://www.convex.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Convex-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Convex DB" />
+  </a>
   <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   </a>
@@ -43,12 +46,8 @@
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   </a>
-</p>
-
-## 🔍 Exploring:
-<p align="left">
-  
-  <a href="https://socket.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   </a>
 </p>
+
