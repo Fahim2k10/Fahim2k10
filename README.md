@@ -21,8 +21,11 @@
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="60"/></a>
   <a href="https://www.convex.dev/"><img src="https://img.shields.io/badge/Convex-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="60"/></a>
   <br>
+  <br>
   <!-- Python Row -->
   <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="60"/></a>
   <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="60"/></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="60"/></a>
+  <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" height="60"/></a>
+  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-4c8cbf?style=for-the-badge&logo=seaborn&logoColor=white" height="60"/></a>
 </div>
