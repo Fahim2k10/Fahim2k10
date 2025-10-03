@@ -1,11 +1,11 @@
-## 🧑‍💻 Languages
+## Languages
 <div>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="60"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="60"/></a>
   <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="60"/></a>
 </div>
 
-## 🛠️ Tools & Frameworks
+## Tools & Frameworks
 <div>
   <!-- JS Row 1 -->
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="60"/></a>
@@ -13,6 +13,7 @@
   <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="60"/></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="60"/></a>
   <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer_Motion-EF007F?style=for-the-badge&logo=framer&logoColor=white" height="60"/></a>
+  <a href="https://greensock.com/gsap/"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="60"/></a>
   <br>
   <!-- JS Row 2 -->
   <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="60"/></a>
@@ -28,4 +29,5 @@
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="60"/></a>
   <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" height="60"/></a>
   <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-4c8cbf?style=for-the-badge&logo=seaborn&logoColor=white" height="60"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="60"/></a>
 </div>
